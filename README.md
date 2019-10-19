@@ -11,8 +11,8 @@ Technologies used in the app include: MySQl, Node.js, CLI Table, Inquirer
 My role was writing the code for the app. Links to screen shots showing the app is working are below.
 
 Shows inventory updated
-bamazon/images/InventoryUpdated.png
+https://github.com/kenyaking/bamazon/blob/master/images/InventoryUpdated.png
 
 Shows not enough inventory to fulfill order
-bamazon/images/NotEnoughInventory.png
+https://github.com/kenyaking/bamazon/blob/master/images/NotEnoughInventory.png 
 
